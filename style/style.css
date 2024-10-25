@@ -1,0 +1,37 @@
+.container {
+    position: relativec; 
+}
+
+.imagen {
+    position: absolute; 
+        height: auto;
+        justify-content: center;
+}
+
+.musica {
+    z-index: 1; 
+    top: 0;
+    left: 0;
+    width: 100px;
+}
+
+.bateria2 {
+    z-index: 2;
+    top: 20px; 
+    left: 20px;
+    width: 50px;
+    padding: 10px;
+  
+}
+
+.saxo2 {
+    z-index: 3;
+    top: 40px;
+    right: 20;
+    width: 50px;
+    padding: 80px;
+    
+}
+
+
+
